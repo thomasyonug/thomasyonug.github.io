@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate working with [Prof.Yinxing Xue](https://yinxingxue.github.io/) in the Department of Computer Science & Technology, University of Science and Technology of China(USTC). Prior to that, I received my B.E from Hangzhou Dianzi University in 2017.
+I am currently a Ph.D. candidate working with [Prof.Yinxing Xue](https://yinxingxue.github.io/) in the Department of Computer Science & Technology, University of Science and Technology of China (USTC). Prior to that, I received my B.E from Hangzhou Dianzi University in 2017.
 
 My research interests include <b>programming language</b> and <b>software engineering</b>.
 
