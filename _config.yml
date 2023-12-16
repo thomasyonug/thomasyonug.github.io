@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenzhang Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wenzhang Yang"
 description              : &description "PhD student at USTC"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenzhang Yang"
   avatar           : "me.jpg"
-  bio              : ""
+  bio              : "Research is fun!"
   location         : "Suzhou China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
