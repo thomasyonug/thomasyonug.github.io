@@ -13,6 +13,8 @@ I am currently a Ph.D. candidate working with [Prof.Yinxing Xue](https://yinxing
 My research interests include <b>programming language</b> and <b>software engineering</b>.
 
 
+
+
 Publications
 ======
 <p>
@@ -25,6 +27,42 @@ Publications
 </small>
 </li>
 </p>
+
+Projects
+======
+<p>
+<li>
+<font color="maroon">Static Analysis for Unreachable Functions in GCC-Rust</font> <a href="https://summerofcode.withgoogle.com/archive/2021/projects/6068561092542464"><b>[detail]</b></a>
+<br>
+</li>
+</p>
+
+
+
+Talks
+======
+<p>
+<li>
+<font color="maroon">Analysis of V8 Snapshot</font> <a href="https://www.bilibili.com/video/BV1UV411r7Nq/"><b>[video]</b></a>
+<br>
+</li>
+</p>
+
+<p>
+<li>
+<font color="maroon">Analysis of Several JS Builtin Functions by V8 Torque</font> <a href="https://www.bilibili.com/video/BV1sZ4y1W7YQ/"><b>[video]</b></a>
+<br>
+</li>
+</p>
+
+<p>
+<li>
+<font color="maroon">Dive into V8 Torque</font> <a href="https://www.bilibili.com/video/BV1JK411s7Pv/"><b>[video]</b></a>
+<br>
+</li>
+</p>
+
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
