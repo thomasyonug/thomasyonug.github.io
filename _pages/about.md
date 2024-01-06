@@ -17,50 +17,46 @@ My research interests include <b>programming language</b> and <b>software engine
 
 Publications
 ======
-<p>
+<ul>
 <li>
 <font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> 
 <br>
-<small>
 <b>Wenzhang Yang</b>, Linhai Song* and Yinxing Xue*.
 <em>ICSE'2024</em>
-</small>
 </li>
-</p>
+</ul>
 
 Projects
 ======
-<p>
+<ul>
 <li>
 <font color="maroon">Static Analysis for Unreachable Functions in GCC-Rust</font> <a href="https://summerofcode.withgoogle.com/archive/2021/projects/6068561092542464"><b>[detail]</b></a>
 <br>
 </li>
-</p>
+</ul>
 
 
 
 Talks
 ======
-<p>
+<ul>
 <li>
 <font color="maroon">Analysis of V8 Snapshot</font> <a href="https://www.bilibili.com/video/BV1UV411r7Nq/"><b>[video]</b></a>
 <br>
 </li>
-</p>
 
-<p>
 <li>
 <font color="maroon">Analysis of Several JS Builtin Functions by V8 Torque</font> <a href="https://www.bilibili.com/video/BV1sZ4y1W7YQ/"><b>[video]</b></a>
 <br>
 </li>
-</p>
 
-<p>
 <li>
 <font color="maroon">Dive into V8 Torque</font> <a href="https://www.bilibili.com/video/BV1JK411s7Pv/"><b>[video]</b></a>
 <br>
 </li>
-</p>
+
+</ul>
+
 
 
 
