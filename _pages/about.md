@@ -17,13 +17,23 @@ My research interests include <b>programming language</b> and <b>software engine
 
 Publications
 ======
-<ul>
+<ul style="width: 900px">
 <li>
 <font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> 
 <br>
 <b>Wenzhang Yang</b>, Linhai Song* and Yinxing Xue*.
 <em>ICSE'2024</em>
 </li>
+
+
+<li>
+<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> 
+<br>
+Cuifeng Gao, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue, Jun Sun.
+<em>TOSEM'2023</em>
+</li>
+
+
 </ul>
 
 Projects
