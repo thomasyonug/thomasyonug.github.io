@@ -19,9 +19,9 @@ Publications
 ======
 <ul style="width: 900px">
 <li>
-<font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> 
+<font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> [<a href="files/Rust_lancet.pdf">preprint</a>]
 <br>
-<b>Wenzhang Yang</b>, Linhai Song* and Yinxing Xue*.
+<b>Wenzhang Yang</b>, Linhai Song and Yinxing Xue.
 <em>ICSE'2024</em>
 </li>
 
