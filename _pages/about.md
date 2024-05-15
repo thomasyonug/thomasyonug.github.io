@@ -17,7 +17,7 @@ My research interests include <b>programming language</b> and <b>software engine
 
 Publications
 ======
-<ul style="width: 900px">
+<ul style="width: 1000px">
 <li>
 <font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> [<a href="files/Rust_lancet.pdf">preprint</a>]
 <br>
@@ -27,7 +27,7 @@ Publications
 
 
 <li>
-<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> 
+<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> [<a href="files/sguard+.pdf">preprint</a>]
 <br>
 Cuifeng Gao, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue, Jun Sun.
 <em>TOSEM'2023</em>
