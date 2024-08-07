@@ -18,6 +18,15 @@ My research interests include <b>programming language</b> and <b>software engine
 Publications
 ======
 <ul style="width: 1000px">
+
+<li>
+<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="/">coming soon</a>]
+<br>
+<b>Wenzhang Yang</b>, Cuifeng Gao, Xiaoyuan Liu, Yuekang Li, Yinxing Xue
+<em>ASE'2024</em>
+</li>
+
+
 <li>
 <font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> [<a href="files/Rust_lancet.pdf">preprint</a>]
 <br>
