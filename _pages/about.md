@@ -20,7 +20,7 @@ Publications
 <ul style="width: 1000px">
 
 <li>
-<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="/">coming soon</a>]
+<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="files/Rust_twins.pdf">preprint</a>]
 <br>
 <b>Wenzhang Yang</b>, Cuifeng Gao, Xiaoyuan Liu, Yuekang Li, Yinxing Xue.
 <em>ASE'2024</em>
