@@ -112,6 +112,9 @@
       {% if author.orcid %}
         <li><a href="https://orcid.org/my-orcid?orcid={{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.stid %}
+        <li><a href="./"><i class="ai ai-orcid-square ai-fw"></i> STID: 156-O-520-0000440-8</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
