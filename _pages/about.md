@@ -20,7 +20,7 @@ Publications
 <ul style="width: 1000px">
 
 <li>
-<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="files/Rust_twins.pdf">preprint</a>]
+<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="files/Rust_twins.pdf"><b>preprint</b></a>]
 <br>
 <b>Wenzhang Yang</b>, Cuifeng Gao, Xiaoyuan Liu, Yuekang Li, Yinxing Xue.
 <em>ASE'2024</em>
@@ -28,7 +28,7 @@ Publications
 
 
 <li>
-<font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> [<a href="files/Rust_lancet.pdf">preprint</a>]
+<font color="maroon">Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation</font> [<a href="files/Rust_lancet.pdf"><b>preprint</b></a>]
 <br>
 <b>Wenzhang Yang</b>, Linhai Song and Yinxing Xue.
 <em>ICSE'2024</em>
@@ -36,7 +36,7 @@ Publications
 
 
 <li>
-<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> [<a href="files/sguard+.pdf">preprint</a>]
+<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> [<a href="files/sguard+.pdf"><b>preprint</b></a>]
 <br>
 Cuifeng Gao, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue, Jun Sun.
 <em>TOSEM'2023</em>
@@ -56,7 +56,7 @@ Projects
 <li>
 <font color="maroon">Java2Js Transpiler for Multiple Thread</font>
 <a href="https://github.com/thomasyonug/jweet407"><b>[github]</b></a>
-[<a href="files/cctrans.pdf">preprint</a>]
+[<a href="files/cctrans.pdf"><b>preprint</b></a>]
 </li>
 
 
@@ -84,6 +84,16 @@ Talks
 
 </ul>
 
+Awards
+======
+<ul>
+<li>
+<font color="maroon">Global Digital Creations (GDC) Scholarship, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
+<br>
+</li>
+
+
+</ul>
 
 
 
