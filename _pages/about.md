@@ -88,8 +88,9 @@ Honors and Awards
 ======
 <ul>
 <li>
-<font color="maroon">GDC Special Scholarship, <em>Global Digital Creations</em>, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
+<font color="maroon">GDC Special Scholarship, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
 <br>
+Global Digital Creations Technology Limited 
 </li>
 
 
