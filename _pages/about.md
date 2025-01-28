@@ -45,6 +45,18 @@ Cuifeng Gao, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue, Jun Sun.
 
 </ul>
 
+Honors and Awards
+======
+<ul>
+<li>
+<font color="maroon">GDC Special Scholarship, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
+<br>
+Global Digital Creations Technology Limited 
+</li>
+
+
+</ul>
+
 Projects
 ======
 <ul>
@@ -61,7 +73,6 @@ Projects
 
 
 </ul>
-
 
 
 Talks
@@ -84,17 +95,20 @@ Talks
 
 </ul>
 
-Honors and Awards
+
+
+Services
 ======
 <ul>
 <li>
-<font color="maroon">GDC Special Scholarship, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
+<font color="maroon">2025</font>
 <br>
-Global Digital Creations Technology Limited 
+Reviewer for Inscrypt'24, SANER'25 (ERA), TOSEM
 </li>
 
 
 </ul>
+
 
 
 
