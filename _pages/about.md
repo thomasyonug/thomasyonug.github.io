@@ -20,6 +20,15 @@ Publications
 <ul style="width: 1000px">
 
 <li>
+<font color="maroon"> 基于大语言模型的模糊测试研究综述</font> [<a href="https://www.jos.org.cn/jos/article/abstract/7323"><b>link</b></a>]
+<br>
+Yan Li, <b>Wenzhang Yang</b>, Yi Zhang, Yinxing Xue.
+<em>软件学报'2025</em>
+</li>
+
+
+
+<li>
 <font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="files/Rust_twins.pdf"><b>preprint</b></a>]
 <br>
 <b>Wenzhang Yang</b>, Cuifeng Gao, Xiaoyuan Liu, Yuekang Li, Yinxing Xue.
