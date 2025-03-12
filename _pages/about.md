@@ -20,10 +20,10 @@ Publications
 <ul style="width: 1000px">
 
 <li>
-<font color="maroon"> 基于大语言模型的模糊测试研究综述</font> [<a href="https://www.jos.org.cn/jos/article/abstract/7323"><b>link</b></a>]
+<font color="maroon">Survey on Fuzzing Based on Large Language Model</font> [<a href="https://www.jos.org.cn/jos/article/abstract/7323"><b>link</b></a>]
 <br>
 Yan Li, <b>Wenzhang Yang</b>, Yi Zhang, Yinxing Xue.
-<em>软件学报'2025</em>
+<em>Journal of Software'2025</em>
 </li>
 
 
