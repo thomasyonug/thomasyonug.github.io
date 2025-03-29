@@ -57,11 +57,21 @@ Cuifeng Gao, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue, Jun Sun.
 Honors and Awards
 ======
 <ul>
+
+<li>
+<font color="maroon">Suzhou Industrial Park Scholarship, 2024</font> <a href="https://sz.ustc.edu.cn/jypy_show/126.html"><b>[link]</b></a>
+<!-- <br>
+Global Digital Creations Technology Limited  -->
+</li>
+
+
 <li>
 <font color="maroon">GDC Special Scholarship, 2024</font> <a href="https://www.gdc-tech.com/about/sustainability/"><b>[link]</b></a>
 <br>
 Global Digital Creations Technology Limited 
 </li>
+
+
 
 
 </ul>
