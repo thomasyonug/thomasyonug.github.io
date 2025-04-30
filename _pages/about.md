@@ -59,9 +59,11 @@ Honors and Awards
 <ul>
 
 <li>
+<font color="maroon">Outstanding Graduate of USTC, 2025</font> <a href="https://cs.ustc.edu.cn/2025/0317/c3054a676982/pagem.htm"><b>[link]</b></a>
+</li>
+
+<li>
 <font color="maroon">Suzhou Industrial Park Scholarship, 2024</font> <a href="https://sz.ustc.edu.cn/jypy_show/126.html"><b>[link]</b></a>
-<!-- <br>
-Global Digital Creations Technology Limited  -->
 </li>
 
 
