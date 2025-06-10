@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree from University of Science and Technology of China in 2025, and B.E. degree from Hangzhou Dianzi University in 2017.
+
+I am currently an Assistant Research Professor at the Institute of AI for Industries, Chinese Academy of Sciences. I earned my Ph.D. from the University of Science and Technology of China in 2025 and my B.E. from Hangzhou Dianzi University in 2017.
 
 My research interests include <b>programming language</b> and <b>software engineering</b>.
 
