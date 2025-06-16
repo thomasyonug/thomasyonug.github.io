@@ -20,6 +20,22 @@ Publications
 ======
 <ul style="width: 1000px">
 
+
+<li>
+<font color="maroon">Towards Automated and Accurate Understanding of ARINC Standard in Heterogeneous Data Formats</font> [<a href="/"><b>coming soon</b></a>]
+<br>
+Cuifeng Gao, <b>Wenzhang Yang*</b>, Xianchang Luo, Yinxing Xue.
+<em>QRS'2025</em>
+</li>
+
+<li>
+<font color="maroon">Flash Loan Attack Is More Than Just Price Oracle Manipulation: A Comprehensive Empirical Study</font> [<a href="/"><b>coming soon</b></a>]
+<br>
+Cuifeng Gao, Jiajun Ye, <b>Wenzhang Yang*</b>, Yinxing Xue.
+<em>QRS'2025</em>
+</li>
+
+
 <li>
 <font color="maroon">Survey on Fuzzing Based on Large Language Model</font> [<a href="https://www.jos.org.cn/jos/article/abstract/7323"><b>link</b></a>]
 <br>
