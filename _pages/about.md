@@ -23,7 +23,7 @@ Publications
 <li>
 <font color="maroon"> Rust-doctor: Enhanced Feature for Rust Ownership and Lifetime Repair with Balanced Training Data Generation</font> [<a href="files/Rust-doctor.pdf"><b>preprint</b></a>]
 <br>
-<b>Wenzhang Yang</b>, Xiaoning Ren, Cuifeng Gao, Yinxing Xue.
+<b>Wenzhang Yang</b>*, Xiaoning Ren*, Cuifeng Gao, Yinxing Xue.
 <em>EMNLP'2025</em>
 </li>
 
@@ -31,14 +31,14 @@ Publications
 <li>
 <font color="maroon">Towards Automated and Accurate Understanding of ARINC Standard in Heterogeneous Data Formats</font> [<a href="files/NLP4ARINC.pdf"><b>preprint</b></a>]
 <br>
-Cuifeng Gao, <b>Wenzhang Yang*</b>, Xianchang Luo, Yinxing Xue.
+Cuifeng Gao, <b>Wenzhang Yang<sup>†</sup></b>, Xianchang Luo, Yinxing Xue.
 <em>QRS'2025</em>
 </li>
 
 <li>
 <font color="maroon">Flash Loan Attack Is More Than Just Price Oracle Manipulation: A Comprehensive Empirical Study</font> [<a href="files/Flash Loan.pdf"><b>preprint</b></a>]
 <br>
-Cuifeng Gao, Jiajun Ye, <b>Wenzhang Yang*</b>, Yinxing Xue.
+Cuifeng Gao, Jiajun Ye, <b>Wenzhang Yang<sup>†</sup></b>, Yinxing Xue.
 <em>QRS'2025</em>
 </li>
 
