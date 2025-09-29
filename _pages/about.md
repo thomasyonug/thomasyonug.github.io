@@ -16,9 +16,19 @@ My research interests include <b>programming language</b> and <b>software engine
 
 
 
-Publications
+Publications 
 ======
+<em>* indicates coauthor; <sup>†</sup> indicates corresponding author</em>
+
 <ul style="width: 1200px">
+<li>
+<font color="maroon">Function Clustering-Based Fuzzing Termination: Toward Smarter Early Stopping</font> [<a href="files/FuzzingTermination.pdf"><b>preprint</b></a>]
+<br>
+Liang Ding, <b>Wenzhang Yang<sup>†</sup></b>, Yinxing Xue.
+<em>ASE'2025</em>
+</li>
+
+
 
 <li>
 <font color="maroon"> Rust-doctor: Enhanced Feature for Rust Ownership and Lifetime Repair with Balanced Training Data Generation</font> [<a href="files/Rust-doctor.pdf"><b>preprint</b></a>]
