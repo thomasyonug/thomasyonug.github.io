@@ -21,6 +21,15 @@ Publications
 <em>* indicates coauthor; <sup>†</sup> indicates corresponding author</em>
 
 <ul style="width: 1200px">
+
+<li>
+<font color="maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</font> [<a href="files/evolution of smart contracts.pdf"><b>preprint</b></a>]
+<br>
+Cuifeng Gao, Ao Chen, Chengze Wu, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue<sup>†</sup>.
+<em>TOSEM'2025</em>
+</li>
+
+
 <li>
 <font color="maroon">Function Clustering-Based Fuzzing Termination: Toward Smarter Early Stopping</font> [<a href="files/FuzzingTermination.pdf"><b>preprint</b></a>]
 <br>
