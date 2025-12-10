@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently an Assistant Research Professor at the Institute of AI for Industries, Chinese Academy of Sciences. Before that, I earned my Ph.D. from the University of Science and Technology of China in 2025 and my B.E. from Hangzhou Dianzi University in 2017.
 
-My research interests include <b>programming languages</b>, <b>software engineering</b>, and <b>embodied AI</b> — spanning multimodal agents, Visual‑Language‑Action (VLA) models, and software engineering methods for VLA.
+My research interests include <b>programming languages</b>, <b>software engineering</b>, and <b>embodied AI</b> — spanning multimodal agents, Vision‑Language‑Action (VLA) models, and software engineering methods for VLA.
 
 <span><font color="maroon">To prospective students</font>:  We are looking for motivated students and undergraduate/graduate research interns who share my academic interests. If you are interested in working together, feel free to send me an email.
 </span>
