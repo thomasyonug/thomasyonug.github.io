@@ -24,6 +24,15 @@ Publications
 <ul style="width: 1200px">
 
 <li>
+<font color="maroon">F-800: Agentic Fuzzing Termination via Function Clustering:
+Toward Smarter Early Stopping</font> [<a href="files/F800.pdf"><b>preprint</b></a>]
+<br>
+<b>Wenzhang Yang</b>*, Liang Ding*, Yinxing Xue<sup>†</sup>, Lijun Zhang.
+<em>TOSEM'2026</em>
+</li>
+
+
+<li>
 <font color="maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</font> [<a href="files/evolution of smart contracts.pdf"><b>preprint</b></a>]
 <br>
 Cuifeng Gao, Ao Chen, Chengze Wu, <b>Wenzhang Yang</b>, Jiaming Ye, Yinxing Xue<sup>†</sup>.
