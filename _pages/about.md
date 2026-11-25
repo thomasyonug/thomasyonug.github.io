@@ -24,6 +24,14 @@ Publications
 <ul style="width: 1200px">
 
 <li>
+<font color="maroon">Evaluating Agent Frameworks for Code-centric Software Engineering:
+A Comprehensive Empirical Study</font> [<a href="files/evalAgentFramework.pdf"><b>preprint</b></a>]
+<br>
+Zhuowen Yin*, Cuifeng Gao*, Chunsong Fan, <b>Wenzhang Yang</b><sup>†</sup>, Yinxing Xue<sup>†</sup>.
+<em>JSS'2026</em>
+</li>
+
+<li>
 <font color="maroon">F-800: Agentic Fuzzing Termination via Function Clustering:
 Toward Smarter Early Stopping</font> [<a href="files/F800.pdf"><b>preprint</b></a>]
 <br>
